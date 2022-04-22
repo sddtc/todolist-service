@@ -4,8 +4,8 @@ plugins {
 	id 'java'
 }
 
-group = 'com.demo'
-version = '0.0.1-SNAPSHOT'
+group = 'sddtc.todolist'
+version = '0.0.1'
 sourceCompatibility = '17'
 
 repositories {
