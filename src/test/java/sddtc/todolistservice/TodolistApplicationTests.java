@@ -1,10 +1,10 @@
-package com.demo.springboottemplate;
+package sddtc.todolistservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringbootTemplateApplicationTests {
+class TodolistApplicationTests {
 
 	@Test
 	void contextLoads() {
